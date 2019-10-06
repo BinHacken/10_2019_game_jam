@@ -12,6 +12,11 @@ This repository contains documents and links to resources for our Python GameJam
 
 [On the point Video Tutorial by Tech With Tim](https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)
 
+## Github basics  
+Gitkraken is a easy to use client for Git(hub) and available for free with a [Github student account](https://education.github.com/students)  
+[Github Tutorial](https://guides.github.com/activities/hello-world/)  
+[Gitkraken Tutorial](https://support.gitkraken.com/)
+
 ## Game develpoment resources
 
 ### Icons
@@ -28,7 +33,8 @@ This repository contains documents and links to resources for our Python GameJam
 [freemusicarchive.org](https://freemusicarchive.org/static)
 
 ### Sounds
-
+mostly soundscapes [freesoundlibrary.com](https://www.freesoundslibrary.com/)  
+mostly single sounds good search function [freesound.org](https://freesound.org)
 
 ### Universal
 [kenny.nl](kenney.nl)  
