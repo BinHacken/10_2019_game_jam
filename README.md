@@ -15,7 +15,8 @@ This repository contains documents and links to resources for our Python GameJam
 ## Github basics  
 Gitkraken is a easy to use client for Git(hub) and available for free with a [Github student account](https://education.github.com/students)  
 [Github Tutorial](https://guides.github.com/activities/hello-world/)  
-[Gitkraken Tutorial](https://support.gitkraken.com/)
+[Gitkraken Tutorial](https://support.gitkraken.com/)  
+[Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
 
 ## Game develpoment resources
 
