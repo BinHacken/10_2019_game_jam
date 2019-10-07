@@ -1,4 +1,4 @@
-# 10 2019 GameJam resources list
+# Gamejam resources list
 This repository contains documents and links to resources for our Python GameJam.
 
 ## Python basics and documentation
