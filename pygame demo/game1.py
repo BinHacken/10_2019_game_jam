@@ -2,7 +2,6 @@
 #-----Imports-----
 import pygame
 from pygame.locals import *
-from character import character
 #-----Initialization-----
 pygame.init()
 window = pygame.display.set_mode((800, 500))
