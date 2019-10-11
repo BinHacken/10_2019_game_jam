@@ -1,6 +1,6 @@
 # Game Jam resources list
 
-Hier findest Links und Dokumente für unseren Game Jam (11. -13. Oktober 2019).  
+Hier findest du Dokumente und Links für unseren Game Jam (11. -13. Oktober 2019).  
 
 ## Allgemein
 
@@ -32,14 +32,14 @@ Hier findest Links und Dokumente für unseren Game Jam (11. -13. Oktober 2019).
 
 ### Warum?
 
-* Jede Änderung im Code kann Rückgänig gemacht werden
+* Jede Änderung im Code kann rückgänig gemacht werden
 * Arbeiten am gleichen Code möglich
 * Keinen Source Code mehr per USB Stick, Messenger oder Cloud teilen!
 
 ### Wie?
 
 Der grobe Ablauf sieht so aus:  
-1. Erstellt ein Repository (z.B. auf GitHub)
+1. Erstelle ein Repository (z.B. auf GitHub)
 2. Lade das Repository runter
 3. Entpacke und öffne den Repository Ordner in Atom
 4. Bearbeite deinen Code
@@ -51,21 +51,21 @@ Hier sind ein paar Hilfreiche Links:
 * [GitHub Tutorials](https://guides.github.com/)
 * [Erstelle ein Repository](https://help.github.com/en/articles/create-a-repo)
 * [Clone (download) ein Repository](https://help.github.com/en/articles/cloning-a-repository)
-* [Datein bearbeiten](https://help.github.com/en/articles/editing-files-in-your-repository)
+* [Dateien bearbeiten](https://help.github.com/en/articles/editing-files-in-your-repository)
 * [Atom + Git](https://flight-manual.atom.io/using-atom/sections/github-package/)
 
-Falls Atom und GitHub nicht aus reichen, gibt es auch extra Desktop Programme:  
+Falls Atom und GitHub nicht ausreichen, gibt es auch extra Desktop-Programme:  
 * [GitKraken](https://www.gitkraken.com/)
 * [GitHub Desktop](https://desktop.github.com/)
 * [Sourcetree](https://www.sourcetreeapp.com/)
 
 Für bessere Teamarbeit empfiehlt es sich für jedes Teammitglied einen eigenen Branch anzulegen.  
-Der master Branch sollte nur lauffähige Software enthalten die getestet wurde.  
+Der master Branch sollte nur lauffähige Software enthalten, die getestet wurde.  
 Mit Pull Requests könnt ihr eure Änderungen in andere Branches übernehmen.  
 
 ## Game Development Resources
 
-### Allgemeine Assets
+### Game Assets
 
 * [kenny.nl](https://kenney.nl/assets)
 * [opengameart.org](https://opengameart.org/)
@@ -74,20 +74,20 @@ Mit Pull Requests könnt ihr eure Änderungen in andere Branches übernehmen.
 
 * [game-icons.net](https://game-icons.net/)
 
-### Textures
+### Texturen
 
 :(
 
-### Other visual Art
+### Schriftarten
 
 * [Google Fonts](https://fonts.google.com/)
 
-### Music
+### Musik
 
 * [filmmusic.io](filmmusic.io)  
 * [freemusicarchive.org](https://freemusicarchive.org/static)
 
-### Sounds
+### Sound
 
 * [freesoundlibrary.com](https://www.freesoundslibrary.com/) für Soundscapes
 * [freesound.org](https://freesound.org) für bestimmte Geräusche
