@@ -4,10 +4,19 @@ Hier findest du Dokumente und Links für unseren Game Jam (11. -13. Oktober 2019
 
 ## Allgemein
 
-* [Atom IDE](https://atom.io/)
-* [Python3](https://www.python.org/downloads/)
-* [GitHub](https://github.com/)
-* [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+### Vorbereitungen
+
+1. Installiere [Python3](https://www.python.org/downloads/) (Wähle `Add Python to PATH` wenn gefragt)
+2. Öffne ein Terminal (Bei windows mit `WINDOWS`+`R` dann `cmd` und OK)
+3. Tippe `pip install pygame` und bestätige mit Enter.  
+Wenn pip nicht gefunden werden konnte, musst du es nochmal installieren:
+https://www.liquidweb.com/kb/install-pip-windows/
+4. Installiere [Atom IDE](https://atom.io/)
+5. Installiere [GitHub](https://github.com/)
+6. Registriere dich bei [GitHub](https://github.com/)
+7. Start Hacking!
+
+Wer bock hat macht beim [Hacktoberfest](https://hacktoberfest.digitalocean.com/) mit.
 
 ## Python
 
