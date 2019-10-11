@@ -33,8 +33,8 @@ Wer bock hat macht beim [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 ## Circuit Python
 
-* [Circuit Python](https://circuitpython.org/libraries)
-* [Circuit Python Libraries](https://circuitpython.org/board/circuitplayground_express/)
+* [Circuit Python](https://circuitpython.org/board/circuitplayground_express/)
+* [Circuit Python Libraries](https://circuitpython.org/libraries)
 
 ## Git
 
