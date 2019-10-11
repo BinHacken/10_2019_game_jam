@@ -10,6 +10,9 @@ This repository contains documents and links to resources for our Python GameJam
 [Website](https://www.pygame.org)  
 [Documentation](https://www.pygame.org/docs/index.html)
 
+[Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)  
+from chapter 17 on they use pygame, before it is mostly pure python (plus standard library)  
+
 [On the point Video Tutorial by Tech With Tim](https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)
 
 ## Github basics  
