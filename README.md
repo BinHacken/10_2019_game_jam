@@ -35,6 +35,8 @@ Wer bock hat macht beim [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 * [Circuit Python](https://circuitpython.org/board/circuitplayground_express/)
 * [Circuit Python Libraries](https://circuitpython.org/libraries)
+* [Mu IDE](https://codewith.mu/)
+* [Circuit Python Dokumentation](https://circuitpython.readthedocs.io/en/4.x/)
 
 ## Git
 
