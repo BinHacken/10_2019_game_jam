@@ -29,6 +29,7 @@ Hier findest du Dokumente und Links für unseren Game Jam (11. -13. Oktober 2019
 * [Git](https://git-scm.com/) ist eine Software zur Versionsverwaltung von Linus Torvalds
 * [GitHub](https://github.com/) ist die größte online Plattform zum Teilen von Source Code
 * [GitHub für Studenten](https://education.github.com/pack) bietet einen kostenlosen Pro Account mit ganz viel gratis Kram!
+* [GitKraken](https://www.gitkraken.com/) ist ein Programm zum einfachen Verwalten deiner Repositories
 
 ### Warum?
 
@@ -40,21 +41,20 @@ Hier findest du Dokumente und Links für unseren Game Jam (11. -13. Oktober 2019
 
 Der grobe Ablauf sieht so aus:  
 1. Erstelle ein Repository (z.B. auf GitHub)
-2. Lade das Repository runter
-3. Entpacke und öffne den Repository Ordner in Atom
-4. Bearbeite deinen Code
-5. Mache für jede Änderung (z.B. Bugfix oder neues Feature) einen Commit. Der **Commit Titel** beschreibt deine Änderung. Die **Commit Beschreibung** erklärt warum du die Änderung(en) vorgenommen hast.
-6. Pull die aktuelle Version
-7. Push deine Commit(s)
+2. Clone das Repository
+3. Mache für jede Änderung (z.B. Bugfix oder neues Feature) einen Commit.  
+Der **Commit Titel** beschreibt deine Änderung.  
+Die **Commit Beschreibung** erklärt warum du die Änderung(en) vorgenommen hast.
+4. Pull die aktuelle Version
+5. Push deine Commit(s)
 
 Hier sind ein paar Hilfreiche Links:  
+* [GitKraken Tutorials](https://www.gitkraken.com/learn-git)
 * [GitHub Tutorials](https://guides.github.com/)
 * [Erstelle ein Repository](https://help.github.com/en/articles/create-a-repo)
-* [Clone (download) ein Repository](https://help.github.com/en/articles/cloning-a-repository)
-* [Dateien bearbeiten](https://help.github.com/en/articles/editing-files-in-your-repository)
-* [Atom + Git](https://flight-manual.atom.io/using-atom/sections/github-package/)
+* [Atom + GitHub](https://flight-manual.atom.io/using-atom/sections/github-package/)
 
-Falls Atom und GitHub nicht ausreichen, gibt es auch extra Desktop-Programme:  
+Git Desktop-Programme:  
 * [GitKraken](https://www.gitkraken.com/)
 * [GitHub Desktop](https://desktop.github.com/)
 * [Sourcetree](https://www.sourcetreeapp.com/)
