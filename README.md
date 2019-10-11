@@ -1,49 +1,98 @@
-# Gamejam resources list
-This repository contains documents and links to resources for our Python GameJam.
+# Game Jam resources list
 
-## Python basics and documentation
-[Python Website](https://www.python.org)  
-[Documentation](https://docs.python.org/3/)  
-[Tutorial section of the documentation](https://docs.python.org/3/tutorial/index.html)
+Hier findest Links und Dokumente für unseren Game Jam (11. -13. Oktober 2019).  
 
-## Pygame tutorials and documentation
-[Website](https://www.pygame.org)  
-[Documentation](https://www.pygame.org/docs/index.html)
+## Allgemein
 
-[Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)  
-from chapter 17 on they use pygame, before it is mostly pure python (plus standard library)  
+* [Atom IDE](https://atom.io/)
+* [Python3](https://www.python.org/downloads/)
+* [GitHub](https://github.com/)
+* [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-[On the point Video Tutorial by Tech With Tim](https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)
+## Python
 
-## Github basics  
-Gitkraken is a easy to use client for Git(hub) and available for free with a [Github student account](https://education.github.com/students)  
-[Github Tutorial](https://guides.github.com/activities/hello-world/)  
-[Gitkraken Tutorial](https://support.gitkraken.com/)  
-[Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
+* [Python Website](https://www.python.org)  
+* [Python Dokumentation](https://docs.python.org/3/)  
+* [Python Tutorials](https://docs.python.org/3/tutorial/index.html)
 
-## Game develpoment resources
+## Pygame
+
+* [Pygame Website](https://www.pygame.org)  
+* [Pygame Dokumentation](https://www.pygame.org/docs/index.html)
+* [Invent Your Own Computer Games with Python](http://inventwithpython.com/invent4thed/) - ab Kapitel 17 wird pygame behandelt
+* [Pygame Video Tutorial Playlist](https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)
+
+## Git
+
+### Was?
+
+* [Git](https://git-scm.com/) ist eine Software zur Versionsverwaltung von Linus Torvalds
+* [GitHub](https://github.com/) ist die größte online Plattform zum Teilen von Source Code
+* [GitHub für Studenten](https://education.github.com/pack) bietet einen kostenlosen Pro Account mit ganz viel gratis Kram!
+
+### Warum?
+
+* Jede Änderung im Code kann Rückgänig gemacht werden
+* Arbeiten am gleichen Code möglich
+* Keinen Source Code mehr per USB Stick, Messenger oder Cloud teilen!
+
+### Wie?
+
+Der grobe Ablauf sieht so aus:  
+1. Erstellt ein Repository (z.B. auf GitHub)
+2. Lade das Repository runter
+3. Entpacke und öffne den Repository Ordner in Atom
+4. Bearbeite deinen Code
+5. Mache für jede Änderung (z.B. Bugfix oder neues Feature) einen Commit. Der **Commit Titel** beschreibt deine Änderung. Die **Commit Beschreibung** erklärt warum du die Änderung(en) vorgenommen hast.
+6. Pull die aktuelle Version
+7. Push deine Commit(s)
+
+Hier sind ein paar Hilfreiche Links:  
+* [GitHub Tutorials](https://guides.github.com/)
+* [Erstelle ein Repository](https://help.github.com/en/articles/create-a-repo)
+* [Clone (download) ein Repository](https://help.github.com/en/articles/cloning-a-repository)
+* [Datein bearbeiten](https://help.github.com/en/articles/editing-files-in-your-repository)
+* [Atom + Git](https://flight-manual.atom.io/using-atom/sections/github-package/)
+
+Falls Atom und GitHub nicht aus reichen, gibt es auch extra Desktop Programme:  
+* [GitKraken](https://www.gitkraken.com/)
+* [GitHub Desktop](https://desktop.github.com/)
+* [Sourcetree](https://www.sourcetreeapp.com/)
+
+Für bessere Teamarbeit empfiehlt es sich für jedes Teammitglied einen eigenen Branch anzulegen.  
+Der master Branch sollte nur lauffähige Software enthalten die getestet wurde.  
+Mit Pull Requests könnt ihr eure Änderungen in andere Branches übernehmen.  
+
+## Game Development Resources
+
+### Allgemeine Assets
+
+* [kenny.nl](https://kenney.nl/assets)
+* [opengameart.org](https://opengameart.org/)
 
 ### Icons
-[game-icons.net](https://game-icons.net/)
+
+* [game-icons.net](https://game-icons.net/)
 
 ### Textures
 
+:(
 
 ### Other visual Art
-[Google Fonts](https://fonts.google.com/)
+
+* [Google Fonts](https://fonts.google.com/)
 
 ### Music
-[filmmusic.io](filmmusic.io)  
-[freemusicarchive.org](https://freemusicarchive.org/static)
+
+* [filmmusic.io](filmmusic.io)  
+* [freemusicarchive.org](https://freemusicarchive.org/static)
 
 ### Sounds
-mostly soundscapes [freesoundlibrary.com](https://www.freesoundslibrary.com/)  
-mostly single sounds good search function [freesound.org](https://freesound.org)
 
-### Universal
-[kenny.nl](kenney.nl)  
-[opengameart.org](https://opengameart.org/)
+* [freesoundlibrary.com](https://www.freesoundslibrary.com/) für Soundscapes
+* [freesound.org](https://freesound.org) für bestimmte Geräusche
 
-### Other Lists
-[list of graphics resource pages](https://web.archive.org/web/20190306021527/http://www.pixelprospector.com/royalty-free-graphics/)  
-[and another one for everything](https://docs.google.com/document/d/1qQf5zjvJHEB40xYhTiFo9GzNYUBt8iAw8vzPu2Oy354/edit)
+### Noch mehr Links!
+
+* [Kostenlose Grafiken](https://web.archive.org/web/20190306021527/http://www.pixelprospector.com/royalty-free-graphics/)  
+* [Resources for Jammers](https://docs.google.com/document/d/1qQf5zjvJHEB40xYhTiFo9GzNYUBt8iAw8vzPu2Oy354/edit)
