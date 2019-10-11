@@ -12,7 +12,7 @@ Hier findest du Dokumente und Links für unseren Game Jam (11. -13. Oktober 2019
 Wenn pip nicht gefunden werden konnte, musst du es nochmal installieren:
 https://www.liquidweb.com/kb/install-pip-windows/
 4. Installiere [Atom IDE](https://atom.io/)
-5. Installiere [GitHub](https://github.com/)
+5. Installiere [GitKraken](https://www.gitkraken.com/)
 6. Registriere dich bei [GitHub](https://github.com/)
 7. Start Hacking!
 
