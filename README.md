@@ -31,6 +31,11 @@ Wer bock hat macht beim [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 * [Invent Your Own Computer Games with Python](http://inventwithpython.com/invent4thed/) - ab Kapitel 17 wird pygame behandelt
 * [Pygame Video Tutorial Playlist](https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5)
 
+## Circuit Python
+
+* [Circuit Python](https://circuitpython.org/libraries)
+* [Circuit Python Libraries](https://circuitpython.org/board/circuitplayground_express/)
+
 ## Git
 
 ### Was?
